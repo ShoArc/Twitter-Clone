@@ -1,0 +1,44 @@
+.main{
+  background-color: black;
+  height: 50px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png");
+  display: block;
+  margin: 0 auto;
+} 
+  
+#photo{
+  background-color: white;
+  height:30px;
+  width: 30px;
+  border-radius: 50%;
+  border-color: red;
+  border-width: 3px;
+  margin-left: 10px;
+  margin-top: 10px;
+  display: inline-block;
+  background-image: url("https://images.pexels.com/photos/479454/pexels-photo-479454.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-size: cover;
+  
+}
+
+#logo{
+  background-color: white;
+  height:30px;
+  width: 30px;
+  margin-left: 130px;
+  margin-top: 10px;
+  display: inline-block;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgg3jxsOuZZN4vSUC1Z58uo8c_UlJyXH98nUoz5YUXafjmOaAI5lhWIWQ&s=10");
+  background-size: cover;
+}
+ #settings{
+  background-color: white;
+  height:30px;
+  width: 30px;
+  margin-left: 130px;
+  margin-top: 10px;
+  display: inline-block;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYwlesO39g87q6JS6a-xEd43s4-Qt-Ej8HvA&s");
+  background-size: cover;
+}
+ 
